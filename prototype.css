@@ -301,3 +301,15 @@ body {
   font-size: 13px;
   color: #666;
 }
+/* Add to prototype.css */
+.mannconnect-logo {
+  display: block;
+  margin: 0 auto 16px auto;
+  max-width: 140px;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(74,144,226,0.08);
+  background: #fff;
+  padding: 8px;
+}
